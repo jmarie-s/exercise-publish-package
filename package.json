@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jmarie-s/exercise-publish-package/issues"
   },
-  "homepage": "https://github.com/jmarie-s/exercise-publish-package#readme"
+  "homepage": "https://github.com/jmarie-s/exercise-publish-package#readme",
+  "publishConfig": {
+    "@jmarie:registry": "https://npm.pkg.github.com"
+  }
 }
